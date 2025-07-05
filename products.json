@@ -1,0 +1,77 @@
+[
+      {
+            "id": 1,
+            "name": "Face Cream",
+            "price": 200,
+            "image": "image/p1.png"
+      },
+      {
+            "id": 2,
+            "name": "Vitamin C Serem",
+            "price": 210,
+            "image": "image/p2.png"
+      },
+      {
+            "id": 3,
+            "name": "PA5++ Sunscreen",
+            "price": 220,
+            "image": "image/p3.png"
+      },
+      {
+            "id": 4,
+            "name": "Night Cream",
+            "price": 220,
+            "image": "image/p1.png"
+      },
+      {
+            "id": 5,
+            "name": "Hair Oil",
+            "price": 250,
+            "image": "image/p5.png"
+      },
+      {
+            "id": 6,
+            "name": "Body Spray",
+            "price": 260,
+            "image": "image/p6.png"
+      },
+      {
+            "id": 7,
+            "name": "Primer",
+            "price": 230,
+            "image": "image/p7.png"
+      },
+      {
+            "id": 8,
+            "name": "CC Cream",
+            "price": 270,
+            "image": "image/p8.png"
+      },
+      {
+            "id": 9,
+            "name": "Body Lotion",
+            "price": 270,
+            "image": "image/p9.png"
+      },
+      {
+            "id": 10,
+            "name": " Walnut Scrub",
+            "price": 270,
+            "image": "image/p10.png"
+      },
+      {
+            "id": 11,
+            "name": "Body Lotion",
+            "price": 270,
+            "image": "image/p1.png"
+      },
+      {
+            "id": 12,
+            "name": "Body Lotion",
+            "price": 270,
+            "image": "image/p2.png"
+      }
+      
+
+
+]
