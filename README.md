@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🌿 SkinLab – Personalized Herbal Skincare Web App 💻🧴
 
 Welcome to **SkinLab**, your one-stop solution for **customizable, herbal-based skincare products** designed to suit your unique skin type and preferences. 🌸 This web application empowers users to tailor their skincare experience with natural, safe, and effective solutions.
