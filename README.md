@@ -78,3 +78,38 @@ Welcome to **SkinLab**, your one-stop solution for **customizable, herbal-based 
    ```bash
    git clone https://github.com/yourusername/skinlab.git
    cd skinlab
+2. Start your XAMPP server.
+
+3. Import the SQL file into phpMyAdmin.
+
+4. Place the code in htdocs and open http://localhost/skinlab/.
+
+## 📋 Usage
+
+1. Register or login as a user.
+
+2. Answer the skincare quiz.
+
+3. Browse recommended products.
+
+4. Add items to your cart.
+
+5. Proceed to checkout and select a payment method.
+
+6. Optionally, try demo products before purchasing full-size.
+
+## 🚀 Future Enhancements
+
+1. 🤖 AI-powered recommendation engine
+
+2. 📷 Virtual try-on tool for beauty products
+
+3. 💬 Community forums and product reviews
+
+4. 🔔 Push notifications for offers
+
+5. 📦 Subscription-based bundles
+
+6. 🌱 Eco-friendly packaging initiatives
+
+
