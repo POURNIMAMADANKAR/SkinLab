@@ -96,7 +96,6 @@ Welcome to **SkinLab**, your one-stop solution for **customizable, herbal-based 
 
 5. Proceed to checkout and select a payment method.
 
-6. Optionally, try demo products before purchasing full-size.
 
 ## 🚀 Future Enhancements
 
